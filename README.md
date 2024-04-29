@@ -1,0 +1,1 @@
+This is Event management platform that I was asked to design at etite platform
